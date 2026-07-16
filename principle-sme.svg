@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" fill="none">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f7fbff"/><stop offset="100%" stop-color="#d4e7fa"/></linearGradient></defs>
+  <rect width="800" height="520" fill="url(#bg)"/>
+  <circle cx="690" cy="136" r="66" fill="#edf5fd"/>
+  <path d="M470 336h236" stroke="#a9c8e6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M480 336V220l74-44 74 44v116" fill="#f9fcff" stroke="#a8c7e6" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M626 336V180h62v156" fill="#eff6fd" stroke="#a8c7e6" stroke-width="10"/>
+  <path d="M514 248h18v18h-18zM553 248h18v18h-18zM592 248h18v18h-18zM514 286h18v18h-18zM553 286h18v18h-18zM592 286h18v18h-18z" fill="#dcecf9"/>
+  <path d="M552 336v-52h28v52" fill="#dcecf9" stroke="#a8c7e6" stroke-width="10"/>
+  <path d="M648 214h18v18h-18zM648 250h18v18h-18zM648 286h18v18h-18z" fill="#dcecf9"/>
+  <path d="M498 164h40c5 0 9 4 9 9v17h-58v-17c0-5 4-9 9-9Z" fill="#dcebf9"/>
+  <path d="M518 143c0-13 10-23 23-23s23 10 23 23-10 23-23 23-23-10-23-23Z" fill="#cfe3f6"/>
+  <path d="M582 160h88" stroke="#aac8e6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M582 190h56" stroke="#aac8e6" stroke-width="10" stroke-linecap="round"/>
+</svg>

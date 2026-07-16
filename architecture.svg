@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract modern architecture</title>
+  <desc id="desc">A blue and white illustration of a curved institutional building with steps and open sky.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dcecff"/>
+      <stop offset="1" stop-color="#f7fbff"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#346aa8"/>
+      <stop offset="1" stop-color="#86b5e4"/>
+    </linearGradient>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fdfefe"/>
+      <stop offset="1" stop-color="#cad8e8"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#315b8c" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="900" height="1050" fill="url(#sky)"/>
+  <circle cx="140" cy="155" r="70" fill="#fff" opacity=".72"/>
+  <path d="M0 810C150 750 300 738 475 770c170 31 292 11 425-58v338H0Z" fill="#edf4fb"/>
+  <g filter="url(#shadow)">
+    <path d="M155 210c225-95 435-80 625 45v445c-190-98-390-116-625-42Z" fill="url(#wall)"/>
+    <path d="M188 250c205-72 392-55 560 54v270c-178-70-358-78-560-25Z" fill="url(#glass)"/>
+    <path d="M232 300c170-47 323-28 470 56v48c-149-77-302-95-470-51Z" fill="#e7f1fb" opacity=".9"/>
+    <path d="M232 415c170-47 323-28 470 56v48c-149-77-302-95-470-51Z" fill="#e7f1fb" opacity=".78"/>
+    <path d="M146 657c225-73 444-58 650 43v70c-205-101-424-116-650-42Z" fill="#bdcfe0"/>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-opacity=".42" stroke-width="3">
+    <path d="M265 252v319M345 235v319M430 232v342M520 241v355M610 260v359"/>
+  </g>
+  <g>
+    <path d="M70 970 570 690h295L390 970Z" fill="#b9c9d9"/>
+    <path d="M95 970 582 714h52L185 970Z" fill="#e5edf5"/>
+    <path d="M185 970 650 728h55L285 970Z" fill="#d8e4ef"/>
+    <path d="M285 970 714 745h60L390 970Z" fill="#cad8e5"/>
+  </g>
+  <g fill="#214f83">
+    <rect x="705" y="685" width="7" height="205" rx="3"/>
+    <rect x="810" y="702" width="7" height="188" rx="3"/>
+  </g>
+  <path d="M708 702c45 14 75 18 105 15" fill="none" stroke="#214f83" stroke-width="4"/>
+  <g transform="translate(640 780)">
+    <circle cx="35" cy="19" r="12" fill="#203a5c"/>
+    <path d="M19 74c1-24 6-40 16-43 11 2 17 18 18 43Z" fill="#203a5c"/>
+    <path d="m28 73-12 52M45 73l16 52" stroke="#203a5c" stroke-width="8" stroke-linecap="round"/>
+    <path d="m26 48-25 30M44 48l22 20" stroke="#203a5c" stroke-width="7" stroke-linecap="round"/>
+  </g>
+</svg>

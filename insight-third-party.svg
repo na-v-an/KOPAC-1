@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="t d">
+<title id="t">Third-party risk network</title><desc id="d">Connected supplier nodes with monitored risk pathways.</desc>
+<defs><linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#102a4c"/><stop offset="1" stop-color="#4386c9"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#06162a" flood-opacity=".35"/></filter></defs>
+<rect width="800" height="520" fill="url(#bg)"/>
+<g stroke="#b9e1ff" stroke-width="4" opacity=".72"><path d="M399 255 202 144M399 255 610 128M399 255 645 363M399 255 205 386M202 144 100 252M610 128 704 235M645 363 704 235M205 386 100 252"/></g>
+<g filter="url(#s)"><circle cx="399" cy="255" r="74" fill="#f7fbff"/><circle cx="202" cy="144" r="49" fill="#d9efff"/><circle cx="610" cy="128" r="45" fill="#d9efff"/><circle cx="645" cy="363" r="52" fill="#d9efff"/><circle cx="205" cy="386" r="44" fill="#d9efff"/><circle cx="100" cy="252" r="34" fill="#86c9f7"/><circle cx="704" cy="235" r="34" fill="#86c9f7"/></g>
+<g fill="none" stroke="#174a86" stroke-width="10" stroke-linecap="round"><circle cx="399" cy="234" r="22"/><path d="M360 303c10-39 68-39 78 0"/><circle cx="202" cy="131" r="13"/><path d="M180 172c6-23 38-23 44 0"/><circle cx="610" cy="117" r="12"/><path d="M590 153c6-20 34-20 40 0"/></g>
+<circle cx="399" cy="255" r="102" fill="none" stroke="#8dd0ff" stroke-width="3" stroke-dasharray="10 13"/>
+</svg>

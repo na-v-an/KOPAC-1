@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 520" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#112d4d"/>
+      <stop offset="50%" stop-color="#1d4776"/>
+      <stop offset="100%" stop-color="#12355b"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6d9bca" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#d9ebfb" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="520" fill="url(#bg)"/>
+  <rect width="1800" height="520" fill="url(#mist)"/>
+  <circle cx="1420" cy="146" r="88" fill="#7ea8d3" opacity="0.08"/>
+  <circle cx="320" cy="122" r="70" fill="#8ab0d6" opacity="0.06"/>
+  <path d="M0 402h1800" stroke="#7ea6d0" stroke-opacity="0.22" stroke-width="3"/>
+  <path d="M120 402V258h96v144M248 402V218h76v184M350 402V282h136v120M498 402V188h88v214M598 402V244h102v158M720 402V202h94v200M836 402V260h72v142M928 402V170h128v232M1078 402V240h90v162M1188 402V210h112v192M1326 402V256h84v146M1436 402V192h98v210M1560 402V230h124v172" stroke="#98bbdf" stroke-opacity="0.36" stroke-width="6"/>
+  <path d="M168 258v-34l26-12 26 12v34M274 218v-28l20-10 20 10v28M532 188v-34l22-12 22 12v34M768 202v-28l18-9 18 9v28M978 170v-38l28-14 28 14v38M1488 192v-34l24-11 24 11v34" stroke="#b8d0e8" stroke-opacity="0.35" stroke-width="4"/>
+  <path d="M890 324h280" stroke="#bdd4ea" stroke-opacity="0.35" stroke-width="4" stroke-linecap="round"/>
+  <path d="M964 286h132" stroke="#bdd4ea" stroke-opacity="0.4" stroke-width="4" stroke-linecap="round"/>
+  <path d="M264 322h120" stroke="#bfd5eb" stroke-opacity="0.32" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1305 318h138" stroke="#bfd5eb" stroke-opacity="0.32" stroke-width="4" stroke-linecap="round"/>
+</svg>
